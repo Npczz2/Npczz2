@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @Npczz2
-- 👀 I’m interested in game jams and coding games
-- 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on game projects in general
-- 📫 How to reach me: my twitter is @NpcStudios_
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i love formigao (surskity) and playing bloons TD6
+Game developer and iOS developer at Apple Developer Academy
+  - Main languages: Swift, C#, GML
+  - Engines: Unity, Game Maker Studio 2
 
-<!---
-Npczz2/Npczz2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Portfolio: 
+@npcstudios_port on Instagram (instagram.com/npcstudios_port)
+NpcStudios on itch.io (npcstudios.itch.io)
+
+
