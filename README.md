@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=NpcStudios;Be+Welcome!+:D)](https://git.io/typing-svg)
 
-Game developer and iOS developer at Apple Developer Academy
+Game developer | iOS developer at Apple Developer Academy
   - Main languages: Swift, C#, GML
   - Engines: Unity, Game Maker Studio 2
 
