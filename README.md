@@ -6,6 +6,6 @@ Game developer | iOS developer at Apple Developer Academy
 
 Portfolio: 
   - @npcstudios_port on Instagram (instagram.com/npcstudios_port)
-  - NpcStudios on itch.io (npcstudios.itch.io)
+  - NpcProductions on itch.io (npcproductions.itch.io)
 
 
